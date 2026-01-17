@@ -1,4 +1,5 @@
-# LLM Inference Engine
+# # TurboLLM – High Performance LLM Inference Engine 
+
 
 This project implements a high-performance inference engine for Large Language Models (LLMs), designed to run efficiently on consumer hardware. The engine is built from scratch in C++ with CUDA support for GPU acceleration, focusing on optimized single-batch inference.
 
